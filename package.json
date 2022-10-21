@@ -1,6 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "melan SEKOUA",
+	"author": {
+		"name": "Melan S.",
+		"version": "0.1.0"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
